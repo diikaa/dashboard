@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<filter><nama>hide/show faculty</nama><jenis>baris</jenis><interval>range</interval><data base="1" inc="2">Faculty of Applied Science</data><data base="3" inc="4">Faculty of Business Economics</data><data base="5" inc="6">Faculty of Communication and Business</data><data base="7" inc="8">Faculty of Creative Industry</data><data base="9" inc="10">Faculty of Electrical Engineering</data><data base="11" inc="12">Faculty of Industrial Engineering</data><data base="13" inc="14">Faculty of Informatics</data></filter>
